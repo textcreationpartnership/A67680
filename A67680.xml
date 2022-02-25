@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to an honourable Member of Parliament concerning the great growth of popery, and the treasonable practices of the Romish bishops and priests, at this time, in England.</title>
+            <author>R. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67680</idno>
+            <idno type="STC">Wing W95B</idno>
+            <idno type="STC">ESTC R220953</idno>
+            <idno type="EEBO-CITATION">99832336</idno>
+            <idno type="PROQUEST">99832336</idno>
+            <idno type="VID">36809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67680)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2141:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to an honourable Member of Parliament concerning the great growth of popery, and the treasonable practices of the Romish bishops and priests, at this time, in England.</title>
+                  <author>R. W.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed and dated: Your most affectionate, humble servant, R.W. London, Jan. 15. 99.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term>Catholic Church --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:36809:1" rendition="simple:additions"/>
+            <head>A LETTER To an Honourable Member of Parliament, concerning the great Growth of POPERY, and the Treaſonable Practices of the <hi>Romiſh Biſhops</hi> and <hi>Prieſts,</hi> at this time, in <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN the laſt Converſation I had with You, You were pleas'd to tell me, You had read the late <hi>Appeal to all Proteſtant Kings, Princes and Stats;</hi> that You were ſatisfy'd of the very great Danger of the Proteſtant Re<g ref="char:EOLhyphen"/>ligion abroad, and of the Cruelties and Barbarities that have been and are us'd againſt It in ſeveral Parts of Chriſtendom; but that You hop'd the Proteſtant Religion is ſafe in <hi>England,</hi> and we have nothing to fear from Popery <hi>here.</hi> As to this laſt I was altogether of another Mind, and think I can ſhew I had very great Reaſon ſo to be.</p>
+            <p>It was no Diſpute betwixt us, Whether Popery be as pernicious to the Ci<g ref="char:EOLhyphen"/>vil Rights, as the Religious Concerns of this Nation; or a Regard was had to Both Theſe in all the Laws which the Wiſdom of Parliaments hath from time to time made againſt Popery. We both allow'd the Neceſſity and the Suf<g ref="char:EOLhyphen"/>ficiency of thoſe Laws: but whether all thoſe Laws are not now aſleep. will not along be a Diſpute betwixt us.</p>
+            <p>To ſecure this Nation from the Idolatries of Popery, and the Uſurpations of the Biſhops of <hi>Rome</hi> upon the Rights of this Kingdom, it was found neceſſary by the Wiſdom of our Parliaments to make very ſtrict Laws againſt Both; eſpe<g ref="char:EOLhyphen"/>cially when the Biſhops of <hi>Rome</hi> had the Impudence to iſſue out their Bulls to deprive Q. <hi>Ebizabeth</hi> of glorious Memory of her Crown, and to Abſolve all Her Subjects from their Alliance to Her.</p>
+            <p>By ſome of theſe Laws it is Treaſon <note n="(a)" place="margin">27 <hi>Eliz. c.</hi> 2. ſect 2, 3.4. 1 <hi>Jac.</hi> 1. c. 4. <hi>&amp;c.</hi>
+               </note> for any Popiſh Biſhop, Prieſt or Jeſuit, <hi>&amp;c.</hi> either to come into <hi>England,</hi> or remain here; and Felony for any knowingly to receive or relieve them here. But to what purpoſe are theſe Laws now? The three Popiſh Biſhops made in the late Popiſh Reign do ſtill continue here, and exerciſe their pretended Juriſdictions, as if they were in <hi>Italy</hi> it ſelf. They have canton'd our Kingdom into <hi>Provinces;</hi> and as their pretended Bp. <hi>Leyborn</hi> has <hi>London,</hi> and the Counties about it for <hi>his</hi> ſhare, ſo their Bp. <hi>Gifford</hi> has the <hi>Weſt</hi> and <hi>Wales;</hi> and their Bp. <hi>Smith</hi> the <hi>Northen</hi> Parts; where they exerciſe all the Parts of their Functions without controul. It's too well known that this laſt Summer Bp. <hi>Gifford</hi> went confirming through <hi>Wales;</hi> and that they boaſt of the many Hundreds He confirm'd then.</p>
+            <p>And for Prieſts and Jeſuits, do they not now ſwarm all over the Nation, e<g ref="char:EOLhyphen"/>ſpecially in and about <hi>London?</hi> And ſo much, that it cannot be deny'd that there are more Popiſh Prieſts in <hi>England</hi> at this time, than were in the late Po<g ref="char:EOLhyphen"/>piſh Reign it ſelf; and at the ſame time of the <hi>Aſſaſſination Plot,</hi> 50 Prieſts are known to have come over in one Week.</p>
+            <p>Give me leave to ask now, Whether You think there can be one Popiſh Lord or Gentleman in <hi>England</hi> without a Popiſh Prieſt in his Houſe, when it can<g ref="char:EOLhyphen"/>not be deny'd that there are at leaſt 100 Jeſuits, 1500 Franciſcans, and pro<g ref="char:EOLhyphen"/>portionably of the Benedictines, Dominicans, Capuchins, Carmelites, and of
+<pb n="2" facs="tcp:36809:2" rendition="simple:additions"/>the Seculiar Prieſts at this time in <hi>England.</hi> They have their Provincials and other Superiors; they keep in one Popiſh Great Man's Houſe or other their yearly Synods and Viſitations, and hold their Triennial Chapters for the chu<g ref="char:EOLhyphen"/>ſing thoſe Provincials, <hi>&amp;c.</hi> and are in as much method <hi>her</hi> as even in <hi>Rome</hi> or <hi>France.</hi> And one would think from theſe their Numbers, and Practices, that there are no more Laws againſt them in <hi>England,</hi> than in <hi>Rome</hi> or <hi>France.</hi> Has not (to trouble You with no more Names at preſent) that infamous Jeſuit <hi>Peters</hi> (Brother to the famous Privy-councellor) who tore our Engliſh Bible in his Pulpit in <hi>Lime-ſtreet</hi> in the late Popiſh Reign, continu'd in <hi>England</hi> ever ſince, liv'd at <hi>Marrybone</hi> under the Name of <hi>Spencer,</hi> and is at the Head of all the Jeſuits affairs at this Day here?</p>
+            <p>By the Wiſdom of our Parliaments Laws were alſo made to forbid abſolute<g ref="char:EOLhyphen"/>ly any Popiſh Worſhip in <hi>England;</hi> to <hi>ſay</hi> Maſs is the Forfeiture <note n="(b)" place="margin">23 <hi>Eliz.</hi> c. 1, ſect. 4.</note> of 200 Marks with one Year's Impriſonment, and to <hi>hear</hi> Maſs is the Forfeiture of 100 Marks with a Year's Impriſonment; and yet, in deſpight of all your Laws, what Numbers of Maſs-houſes are up and down this Kingdom at this time! And what publick Reſort is there every where to 'em in <hi>London,</hi> in <hi>York,</hi> in <hi>Wincheſter,</hi> in <hi>Durham,</hi> not to mention more Places now! And what Crouds may be ſeen any <hi>Sunday</hi>-morning in <hi>Lincoln's Inn-Fields.</hi>
+            </p>
+            <p>I am aſſur'd there are but few Pariſhes in <hi>London,</hi> wherein Maſs is not ſaid every <hi>Sunday;</hi> and I may affirm that to You, which will ſtartle You very much, There are more Maſſes ſaid in a <hi>Sunday</hi>-forenoon in <hi>London</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> than the Church of <hi>England</hi> Services in all the Pariſh-Churches with<g ref="char:EOLhyphen"/>in the Bills of Mortality put together. And the Levying the Fines of this one Act upon the Papiſts for the Term of the laſt Year only, would have rais'd ſo much Money, as would not only pay off that great Debt which the inge<g ref="char:EOLhyphen"/>nious Dr. <hi>Davenant</hi> has very judiciouſly computed the Nation to be in, but prevent laying one Farthing of Tax upon the Nation for Seven Years to come.</p>
+            <p>Is it not, Sir, a Poemunire by our Laws<note n="(c)" place="margin">13 <hi>Eliz.</hi> c. 2. ſect. 7.</note>, either to bring into <hi>England,</hi> or to receive any <hi>Agnus Dei's,</hi> Beads, or ſuch Popiſh Trinkets? Is it not the Forfeiture of 40 Shillings either to ſell or buy here any one Popiſh Pſalter, Manual, Roſarie, or Office whatever<note n="(d)" place="margin">3 <hi>Jac.</hi> 1. c. 5. ſect. 25.</note> ? and yet theſe things are brought in, bought and ſold as publickly, as Toys or Books are in <hi>Weſtminſter-hall</hi> in Term-time: Sometimes in the Hall, ſometimes in the Court, and ſometimes before the very Gates of a certain Houſe, which was not long ſince a Franci<g ref="char:EOLhyphen"/>ſcan Covent. Alas, Sir, Popery is ſo far from being baſhful here, that it's not content barely to make nothing of your Laws, but can with <hi>ſcorn</hi> trample up<g ref="char:EOLhyphen"/>on them. What leſs is the Papiſts reſorting publickly, in Crowds, as it were in Proceſſions? as almoſt all <hi>King's-ſtreet</hi> know they did but laſt <hi>October</hi> 13th, into the Cathedral of <hi>Westminſter</hi> it ſelf; and there, in the Face of the Sun, paid their Superſtitious Devotiens at the Shrine of <hi>Edward</hi> the Confeſſor.</p>
+            <p>That Juſt Deteſtation againſt Popery, which the whole Nation had enter<g ref="char:EOLhyphen"/>tain'd, made it the Care of Parliaments to prevent any of the Subjects being perverted to that Religion. They wiſely conſider'd that there could not be a Convert made to Popery without loſing a Subject to the Government; and in <hi>our</hi> Days this muſt hold truer than ever, there being not one Native Papiſt, or Popiſh Convert, I dare ſay, that does not perfectly hate the preſent Govern<g ref="char:EOLhyphen"/>ment. Such Conſiderations made our Parliaments more than once to Enact That it ſhould be Treaſon <note n="(e)" place="margin">23 <hi>Eliz.</hi> c. 1. ſect. 2, 3. 1 <hi>Jac.</hi> 1. c. 4. ſect. 1.</note> in any one to <hi>turn</hi> another, or to be <hi>turn'd</hi> to the Popiſh Religion here; and Miſpriſion of Treaſon for any that were Aiders or Maintainers in it. But are there ſtill, Sir, ſuch Laws in <hi>England,</hi> when it's the daily Endeavour of above Thouſands in <hi>England</hi> to make Converts to Popery? and they can glory of the Numbers they have made. The Popiſh Biſhops and Prieſts are every-where at Liberty to make what Converts they can. There are not fewer than twenty Prieſts about one Chappel in <hi>L. I. Fields</hi> every Sunday, part of whoſe Buſineſs is to ſay the Maſſes, and another part to make Converts. Have they not carried their Converts in triumph to their Maſs at <hi>Durham?</hi> Do they not brag at the Siſters <hi>Lane</hi>'s Maſs-houſe, or rather Nunnery, in <hi>Wincheſter,</hi> (in the very Face of the Cathedral) of
+<pb n="3" facs="tcp:36809:2"/>the Converts they make there? And, to omit forty more Inſtances, cannot the Father <hi>James</hi> at <hi>Somerſet-houſe,</hi> and the two <hi>Iriſh</hi> Fryars <hi>Nugent</hi> alias <hi>Lucas,</hi> and <hi>Offing</hi> alias <hi>Fenn</hi> at the Convent in <hi>L. I. Fields,</hi> glory of the Con<g ref="char:EOLhyphen"/>verts they have made, and are, in contempt of all your Laws, daily making? <hi>Newgate</hi> it ſelf cannot eſcape ther Diligence; and the <hi>Iriſh Counel</hi> can give a good Account of his Induſtry, if not of his Succeſs <hi>there.</hi>
+            </p>
+            <p>Upon the mention of theſe three <hi>Iriſh</hi> Prieſts, give me leave to ask what You think the <hi>French</hi> King would ſay to it, if my Lord <hi>Mancheſter,</hi> inſtead of One Chaplain He has with him, had entertain'd Twelve or Fourteen <hi>French</hi> Proteſtant Miniſters, whoſe Buſineſs ſhould have been chiefly to baptize, viſit the Sick, and give the Communion up and down <hi>Paris,</hi> and to make what Converts they could from Popery? There is more than one Gentleman in <hi>England,</hi> that knows the reaſon of ſuch a Queſtion here. And the taking up of Dr. <hi>Wickart</hi> (when Chaplain with my Lord <hi>Portland</hi>) by the Lieutenant <hi>Criminal</hi> at <hi>Paris,</hi> on a falſe Information, gives us an Anſwer alſo from <hi>France</hi>—But to return to their Triumphs <hi>here</hi> about their Converts, it would be unpardonable to omit the late triumphant Reception that was made for the Lord <hi>Baltamor</hi>'s Son's Lady at the Franciſcan Chappel, how it was ſtrew'd with Flowers, <hi>&amp;c.</hi> for her firſt coming there. Nay, ſo buſie and ſo furious is their Zeal <hi>now,</hi> that a Convert from Popery goes in dang r of his Life in <hi>England;</hi> and the late Spiriting away of the poor <hi>Spaniſh</hi> and <hi>Portugeſe</hi> Con<g ref="char:EOLhyphen"/>verts tells you very plainly, what they dare do now, as well as their impu<g ref="char:EOLhyphen"/>dent Perſecution of Dr. <hi>Conner</hi> at his dying Hours; as Dr. <hi>H.</hi> of St. <hi>Giles</hi>'s can tell you more at large.</p>
+            <p>Would You, or your Houſes of Parliament, think fit to inquire into the Number of Converts to Popery, made within this thirty or forty Years paſt, I believe it would ſtartle You far more than this Letter can. It's true, You would not find them all <hi>here;</hi> for That is another part of their Care, as well as of their Contempt of all your Laws, that they ſend moſt of 'em away to their Popiſh Seminaries abroad; and they dare brag that ſcarce a Week paſſes, in which they do not ſend either a born Papiſt or a Popiſh Convert to ſome of 'em: And the Jeſuit <hi>Peters</hi> alias <hi>Spencer</hi> has a very conſiderable part in this Charge.</p>
+            <p>And are not theſe their Popiſh Seminaries as great an Affront to your Laws as any of the reſt? What Care has not the Wiſdom of Parliaments taken to prevent any of our Subjects being ſent for Popiſh Education abroad! The Laws in this reſpect are ſo ſtrict and ſevere, that any one that reads them would conclude, that the greateſt Papiſt in <hi>England</hi> durſt not ſend a Child a<g ref="char:EOLhyphen"/>broad to be ſo educated; much more that no Man durſt either make Converts to Popery, or ſend any of them to their Popiſh Seminaries.</p>
+            <p>But for all this, they ſend 'em conſtantly abroad, both Sons and Daughters, both Papiſts born, and Popiſh Converts; and are breeding them up there for the continual Diſturbance of our Nation; and make of their Converts the very worſt Firebrands of all; as the Jeſuit <hi>Parſons</hi> did prove, and I fear the late <hi>Madman</hi> Convert will. Nor have they ſuch Popiſh Seminaries only <hi>abroad,</hi> this would be too ſmall a Contempt of You and your Laws, if they did not keep up ſome here under our own Noſes. They have their <hi>Popiſh Schools</hi> in <hi>London,</hi> and too many other places; they have their <hi>Nunneries,</hi> at <hi>York</hi> for in<g ref="char:EOLhyphen"/>ſtance and at <hi>Hamerſmith;</hi> and their latter <hi>Nuns,</hi> live in hopes of better Accommodations at a Noble Houſe not far from them, which I think is called <hi>Sion</hi>-Houſe, and they ſay belongs to the Nuns of St. <hi>Brigit.</hi>
+            </p>
+            <p>I was not willing to trouble You with too long a Letter, eſpecially in Par<g ref="char:EOLhyphen"/>liament-time, or I ſhould have inſtanc'd in more Matters, and particularly a<g ref="char:EOLhyphen"/>bout thoſe good Men the Jeſuits, whoſe Eſtate in <hi>England</hi> is not computed at leſs than 30000 <abbr>
+                  <hi>l.</hi>
+               </abbr> 
+               <hi>per An.</hi> And would You not think it ſtrange, if theſe Je<g ref="char:EOLhyphen"/>ſuits, by their Agent <hi>B.</hi> ſhould be at this very time the Farmers of the Markets of the City of <hi>London</hi> it ſelf, and cruelly exacting upon the poor People there?</p>
+            <p>This is the State of Popery now in <hi>England,</hi> and theſe are their Practices.
+<pb n="4" facs="tcp:36809:3"/>And now, Sir, I will again ask You, is there no Danger of the Proteſtant Religion <hi>here?</hi> Is there no Fear of Popery in <hi>England,</hi> when it is making ſo great a Progreſs among us? When the Popiſh Prieſts now ſwarm throughout the Kingdom: When their Maſſes are publick almoſt every where, and fre<g ref="char:EOLhyphen"/>quented as openly, as if <hi>theirs</hi> was, and not <hi>ours,</hi> the Eſtabliſht Religion of the Country; When they compaſs every Part and Place of <hi>England</hi> to make their Converts, and glory ſo much in their Numbers of them, and ſend 'em to their Popiſh Seminaries and Convents abroad.</p>
+            <p>What could they do <hi>more,</hi> if theirs was the Eſtabliſht Religion of the Nation; as they hope e'er long to ſee it, and declare they do not fear Ac<g ref="char:EOLhyphen"/>compliſhing their great Deſign in the Way thay are now in. In a little time they hope to take poſſeſſion again of all their Rights, as they call 'em; of the Eſtates of our Nobility and Gentry that are upon Abby-Lands; and of the Cathedrals and Churches of our Clergy. Their Biſhop <hi>Leyborn</hi> lies ready in <hi>Queens-ſtreet</hi> to take poſſeſſion of <hi>Lambeth houſe;</hi> and their Biſhop <hi>Smith</hi> is as ready for that of <hi>York;</hi> where his Silver Croſier was in the late Reign pre<g ref="char:EOLhyphen"/>pared for him; and Biſhop <hi>Gifford</hi> is ready to plant at <hi>Litchfield</hi> or <hi>Worce<g ref="char:EOLhyphen"/>ſter;</hi> for He will not go nearer <hi>Bath</hi> for old <hi>Luellin</hi>'s ſake, who is there already.</p>
+            <p>What is the Reaſon I pray, Sir, when theſe things are really ſo, of the ge<g ref="char:EOLhyphen"/>neral Silence in <hi>England</hi> about <hi>Popery?</hi> Have we forgot all their Plots and Conſpiracies, and even the laſt <hi>Aſſaſſination</hi> One? Have we forgot their Practices in the late Reign, and how near the Deſtruction of the Proteſtant Religion, and of all our Rights and Liberties was <hi>then?</hi> and how inevitable this was, without that miraculous Deliverance which we received by his pre<g ref="char:EOLhyphen"/>ſent Majeſty? Whom God long preſerve. What is the meaning of the un<g ref="char:EOLhyphen"/>accountable Inſenſibility we are now under? Were we miſtaken <hi>then;</hi> and is Popery, which then, and ever till now, was ſo idolatrous, and ſuperſtitious and cruel, and tyrannical and intolerable, become a holy, innocent, harmleſs, inoffenſive Perſwaſion at laſt? No, no, Sir, Popery is Popery <hi>ſtill,</hi> Our con<g ref="char:EOLhyphen"/>ſtant implacable Enemy; and, if We will not take care of our ſelves, it will take care of us, in ſuch a way, as will make all our Hearts to bleed; in a Way that will be the Ruin of all our Laws, of all our Rights and Eſtates, as well, as of our Holy Religion; and when This is gone, let the other go for <hi>me.</hi>
+            </p>
+            <p>Where is your Love to your Religion, your Country, your Laws and your Property, if you can tamely look on, and ſuffer all theſe Affronts from Popery to Every One of Them? From you in Parliament We muſt expect Redreſs in this imminent Danger; and if You will not help us in <hi>ſuch</hi> a terrible Cir<g ref="char:EOLhyphen"/>cumſtance, I am ſure You will acknowledge, that you can never anſwer this carleſs Unconcern to God, or your own Conſciences, or to your Country: And eſpecially ſince you have the greateſt Encouragement imaginable to do your utmoſt for the putting an Effectual Stop to the Growth of <hi>Popery,</hi> when you conſider <hi>Who</hi> now ſits on the Throne, <hi>viz.</hi> not only a Proteſtant, but a King to whom, under God, we owe our Preſervation from <hi>Popery;</hi> and who hath ſignalized His Zeal and Courage for the <hi>Proteſtant</hi> Religion and Intereſt, incomparably beyond any King, or Prince, in <hi>Chriſtendom.</hi>
+            </p>
+            <p>You cannot expect, or be pleaſed with, any Apology for the Freedom of this Letter from,</p>
+            <closer>
+               <signed>SIR, <hi>Your most Affectionate, Humble Servant,</hi> R. W.</signed>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>Jan.</hi> 15. 99.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON</hi> Printed, and Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1700.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
